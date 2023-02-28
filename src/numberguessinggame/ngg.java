@@ -38,7 +38,7 @@ int compo=0; String str2= "";
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/numberguessinggame/guessing.jpg"))); // NOI18N
         jLabel1.setText("jLabel1");
 
-        jLabel2.setText("Enter the NUmber Between 1 and 100");
+        jLabel2.setText("Enter the Number Between 1 and 100");
 
         Congratulation.setText("Show the Number");
         Congratulation.addMouseListener(new java.awt.event.MouseAdapter() {
